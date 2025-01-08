@@ -40,11 +40,11 @@ python main.py
 ### Application Form
 - Fill in your details (Name, Email, Phone) and submit the application for the selected course.
 ### Screenshots
-- *Login Window*: A secure and clean login interface. [Click here](.screenshots/login%20window.png)
-- *Dashboard*: Displays all available courses with a background image. [Click here](.screenshots/dashboard.png)
-- *Course Details*: Shows detailed information about the selected course. [Click here](.screenshots/course%20details.png)
-- *Application Form*: A simple form to apply for a course. [Click here](.screenshots/application%20form.png)
-- *Contact Us*: A simple form to fill contact details. [Click here](.screenshots/contact%20us.png) 
+- *Login Window*: A secure and clean login interface. [Click here](screenshots/login%20window.png)
+- *Dashboard*: Displays all available courses with a background image. [Click here](screenshots/dashboard.png)
+- *Course Details*: Shows detailed information about the selected course. [Click here](screenshots/course%20details.png)
+- *Application Form*: A simple form to apply for a course. [Click here](screenshots/application%20form.png)
+- *Contact Us*: A simple form to fill contact details. [Click here](screenshots/contact%20us.png) 
 ### Future Enhancements
 - Integrate a database for storing course and user data.
 - Add user registration functionality.
